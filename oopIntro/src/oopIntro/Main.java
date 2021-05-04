@@ -14,6 +14,7 @@ public class Main {
 		product2.setDiscount(10);
 		product2.setUnitPrice(16000);
 		
+		System.out.println(product1.getUnitPriceAfterDiscount());
 		System.out.println(product2.getUnitPriceAfterDiscount());
 		
 		Category category1 = new Category();
