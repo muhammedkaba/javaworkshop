@@ -1,4 +1,9 @@
-package oopOdev3;
+package oopOdev3.Concrete;
+
+import oopOdev3.Abstract.IGameService;
+import oopOdev3.Entities.Campaign;
+import oopOdev3.Entities.Game;
+import oopOdev3.Entities.Player;
 
 public class GameManager implements IGameService{
 	

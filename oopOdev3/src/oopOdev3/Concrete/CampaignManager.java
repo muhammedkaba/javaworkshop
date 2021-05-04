@@ -1,4 +1,7 @@
-package oopOdev3;
+package oopOdev3.Concrete;
+
+import oopOdev3.Abstract.ICampaignService;
+import oopOdev3.Entities.Campaign;
 
 public class CampaignManager implements ICampaignService{
 

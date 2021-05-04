@@ -1,4 +1,6 @@
-package oopOdev3;
+package oopOdev3.Abstract;
+
+import oopOdev3.Entities.Player;
 
 public interface IPlayerService {
 	public void register(Player player);

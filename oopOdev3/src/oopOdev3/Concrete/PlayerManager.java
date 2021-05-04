@@ -1,4 +1,8 @@
-package oopOdev3;
+package oopOdev3.Concrete;
+
+import oopOdev3.Abstract.IPlayerService;
+import oopOdev3.Entities.Player;
+import oopOdev3.Utils.VerifyHelper;
 
 public class PlayerManager implements IPlayerService{
 

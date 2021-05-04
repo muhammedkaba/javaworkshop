@@ -1,4 +1,4 @@
-package oopOdev3;
+package oopOdev3.Entities;
 
 
 public class Player {
