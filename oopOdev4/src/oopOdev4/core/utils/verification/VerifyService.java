@@ -5,5 +5,4 @@ public interface VerifyService {
 	public boolean verifyPassword(String password);
 	public boolean verifyName(String name);
 	public boolean checkIfEmpty(String string);
-	public boolean checkIfExists(T entity);
 }
